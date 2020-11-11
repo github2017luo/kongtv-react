@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "https://apks-1252514056.cos.ap-chengdu.myqcloud.com/web/static/css/main.e39a7277.chunk.css",
+    "main.js": "https://apks-1252514056.cos.ap-chengdu.myqcloud.com/web/static/js/main.acd8b6d2.chunk.js",
+    "main.js.map": "https://apks-1252514056.cos.ap-chengdu.myqcloud.com/web/static/js/main.acd8b6d2.chunk.js.map",
+    "runtime-main.js": "https://apks-1252514056.cos.ap-chengdu.myqcloud.com/web/static/js/runtime-main.b98d927d.js",
+    "runtime-main.js.map": "https://apks-1252514056.cos.ap-chengdu.myqcloud.com/web/static/js/runtime-main.b98d927d.js.map",
+    "static/js/2.c8275662.chunk.js": "https://apks-1252514056.cos.ap-chengdu.myqcloud.com/web/static/js/2.c8275662.chunk.js",
+    "static/js/2.c8275662.chunk.js.map": "https://apks-1252514056.cos.ap-chengdu.myqcloud.com/web/static/js/2.c8275662.chunk.js.map",
+    "404.html": "https://apks-1252514056.cos.ap-chengdu.myqcloud.com/web/404.html",
+    "index.html": "https://apks-1252514056.cos.ap-chengdu.myqcloud.com/web/index.html",
+    "precache-manifest.5d0acaa795a5b1d481dcac6114682556.js": "https://apks-1252514056.cos.ap-chengdu.myqcloud.com/web/precache-manifest.5d0acaa795a5b1d481dcac6114682556.js",
+    "service-worker.js": "https://apks-1252514056.cos.ap-chengdu.myqcloud.com/web/service-worker.js",
+    "static/css/main.e39a7277.chunk.css.map": "https://apks-1252514056.cos.ap-chengdu.myqcloud.com/web/static/css/main.e39a7277.chunk.css.map",
+    "static/media/logo192.png": "https://apks-1252514056.cos.ap-chengdu.myqcloud.com/web/static/media/logo192.9c3dd914.png",
+    "static/media/sun_main.png": "https://apks-1252514056.cos.ap-chengdu.myqcloud.com/web/static/media/sun_main.74de97a7.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b98d927d.js",
+    "static/js/2.c8275662.chunk.js",
+    "static/css/main.e39a7277.chunk.css",
+    "static/js/main.acd8b6d2.chunk.js"
+  ]
+}
